@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+02_rdata/
+03_wdata/
+04_result/
